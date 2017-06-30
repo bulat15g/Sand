@@ -1,8 +1,9 @@
 package com.company;
 
-public class Main {
-
+/**
+ * Created by bulat15g on 6/30/17.
+ */
+public class Environmet {
     public static void main(String[] args) {
-	// write your code here
     }
 }
